@@ -12,7 +12,7 @@
         doAfter: 4
 
   - node: bonfire
-    entity: Bonfire
+    entity: BonfireUnlit
     edges:
     - to: start
       completed:

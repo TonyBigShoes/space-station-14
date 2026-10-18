@@ -1,7 +1,11 @@
 ent-BaseBonfire = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
-ent-Bonfire = костёр
+ent-BonfireLit = костёр
     .desc = Что может быть лучше позднего вечера под открытым небом с гитарой и друзьями.
+    .suffix = горит
+ent-BonfireUnlit = костёр
+    .desc = Просто нужно немного огня, чтобы начать.
+    .suffix = не горит
 ent-BonfireStake = костёр с колом
     .desc = Зловещий костер с колом для... церемониальных целей. Лучше не спрашивать.
 ent-LegionnaireBonfire = легионерский костёр
